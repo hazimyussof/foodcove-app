@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Food Cove</string>
+    <string name="recipe_book">Recipe Book</string>
+    <string name="select_a_category">Select a category:</string>
+    <string name="invisible_text">‎</string>
+
+    <!-- Buttons -->
+    <string name="confirm">Confirm</string>
+    <string name="home">Home</string>
+    <string name="go_back">Go Back</string>
+    <string name="load_data">Load Data</string>
+
+    <!-- Food Category -->
+    <string name="beef">Beef</string>
+    <string name="category_beef">Category: BEEF</string>
+    <string name="chicken">Chicken</string>
+    <string name="category_chicken">Category: CHICKEN</string>
+    <string name="dessert">Dessert</string>
+    <string name="category_dessert">Category: DESSERT</string>
+    <string name="pasta">Pasta</string>
+    <string name="category_pasta">Category: PASTA</string>
+    <string name="seafood">Seafood</string>
+    <string name="category_seafood">Category: SEAFOOD</string>
+    <string name="vegan">Vegan</string>
+    <string name="category_vegan">Category: VEGAN</string>
+</resources>
